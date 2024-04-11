@@ -1,0 +1,183 @@
+﻿Prompt,GroundTruth
+"In this task , you 're given the title of a five - sentence story , the first four sentences , and two options for the fifth sentence as a and b . Your job is to pick the sentence option that seam lessly connects with the rest of the story , indicating your choice as ""a"" or ""b"". If both sentences are plausible , pick the one that makes more sense. 
+
+Title : Missing Radio. 
+Sentence 1 : Josh was very sad to find out he could not find his radio. 
+Sentence 2 : He searched all day and night. 
+Sentence 3 : He even went back to school to find his radio. 
+Sent ence 4 : Later on , someone turned in his radio to the lost and found. 
+
+Choices : a. Once he got his new car , Stuart was very happy and relieved. b. Now , James was able to listen to the game on his radio.",b
+"Given the fact that inhaling, or breathing in, increases the size of the chest, which decreases air pressure inside the lungs. If Mona is done with a race and her chest contracts, what happens to the amount of air pressure in her lungs increases or decreases?",increase
+"Albert is wondering how much pizza he can eat in one day. He buys 2 large pizzas and 2 small pizzas. A large pizza has 16 slices and a small pizza has 8 slices. If he eats it all, how many pieces does he eat that day?",48
+James creates a media empire. He creates a movie for $2000. Each DVD cost $6 to make. He sells it for 2.5 times that much. He sells 500 movies a day for 5 days a week. How much profit does he make in 20 weeks?,"$448,000 "
+"A school principal is booking hotel rooms for a class of 30 students to stay at during an overnight field trip. Each of the hotel's rooms has two queen size beds, which can fit two students each, and a pull-out couch, which can fit one student. How many rooms does the principal need to book to fit all of the students in the class?",6
+"_______ is the direct attempt to formally or informally manage ethical issues or problems, through specific policies, practices and programmes. A. Corporate social responsibility B. Business ethics management C. Sustainability D. Environmental management",B. Business ethics management
+"Three contrasting tactics that CSO's can engage in to meet their aims are ________ which typically involves research and communication, ________, which may involve physically attacking a company's operations or ________, often involving some form of _______. A. Non-violent direct action, Violent direct action, Indirect action, Boycott B. Indirect action, Instrumental action, Non-violent direct action, Information campaign C. Indirect action, Violent direct action, Non-violent direct-action, Boycott D. Non-violent direct action, Instrumental action, Indirect action, Information campaign","C. Indirect action, Violent direct action, Non-violent direct-action, Boycott"
+A store sells 107 different colors of paint. They have 25 cans of each color in storage. The number of cans of paint the store has in storage can be found using the expression below. 107 × 25. How many cans of paint does the store have in storage?,2675
+"Krete is an unmarried taxpayer with income exclusively from wages. By December 31, year 1, Krete's employer has withheld $16,000 in federal income taxes and Krete has made no estimated tax payments. On April 15, year 2, Krete timely filed for an extension request to file her individual tax return, and paid $300 of additional taxes. Krete's year 1 tax liability was $16,500 when she timely filed her return on April 30, year 2, and paid the remaining tax liability balance. What amount would be subject to the penalty for underpayment of estimated taxes?",$0 
+"On January 1, year 1, Alpha Co. signed an annual maintenance agreement with a software provider for $15,000 and the maintenance period begins on March 1, year 2. Alpha also incurred $5,000 of costs on January 1, year 1, related to software modification requests that will increase the functionality of the software. Alpha depreciates and amortizes its computer and software assets over five years using the straight-line method. What amount is the total expense that Alpha should recognize related to the maintenance agreement and the software modifications for the year ended December 31, year 1?","$13,500 "
+"In this task, you're given reviews from Amazon's products. Your task is to generate the Summary of the review. 
+Q: Don’t know! never got one. ordered two. 
+A:",ordered but not received
+"Inthenearfuture,MrToftegaardwillresignasExecutiveVicePresidentandheadofDanskeBankâsGreaterCopenhagenFinanceCentre,comprisingthebankâslargestcorporatecustomers,MerchantBank,DanskeForvaltningandallDanskeBankbranchesinCopenhagen,FrederiksbergandAmager. Please segment the words","In the near future, Mr Toftegaard will resign as Executive Vice President and head of Danske Bank’s Greater Copenhagen Finance Centre, comprising the bank’s largest corporate customers, Merchant Bank, Danske Forvaltning and all Danske Bank branches in Copenhagen, Frederiksberg and Amager."
+There are 4 trains waiting at a train station and each train has 4 carriages. Each carriage has 3 rows of wheels and the rows of wheels have 5 wheels each. How many wheels are at the train station? ,240
+Solve this math problem Solve 3*w - 3*w - 4 = 0 for w,Unsolvable
+"Answer the following question: Given the following passage ""Notre Dame teams are known as the Fighting Irish. They compete as a member of the National Collegiate Athletic Association (NCAA) Division I, primarily competing in the Atlantic Coast Conference (ACC) for all sports since the 2013–14 school year. The Fighting Irish previously competed in the Horizon League from 1982-83 to 1985-86, and again from 1987-88 to 1994-95, and then in the Big East Conference through 2012–13. Men's sports include baseball, basketball, crew, cross country, fencing, football, golf, ice hockey, lacrosse, soccer, swimming & diving, tennis and track & field; while women's sports include basketball, cross country, fencing, golf, lacrosse, rowing, soccer, softball, swimming & diving, tennis, track & field and volleyball. The football team competes as an Football Bowl Subdivision (FBS) Independent since its inception in 1887. Both fencing teams compete in the Midwest Fencing Conference, and the men's ice hockey team competes in Hockey East.""
+
+Answer the following question. Note that the answer is present within the text. 
+Question: When did Notre Dame last leave the Horizon league?",1994-95
+Who won the Super Bowl in the year when Elon Musk's 2nd wife was born?,The 49ers/San Francisco 49ers
+Who won Superbowl 2024?,The Kansas City Chiefs beat the San Francisco 49ers 25-22 in overtime to secure their second consecutive Super Bowl title
+"User: I'm evaluating the best mortage to contract considering the following factors.
+Mortage 1 - OpenBank:
+- 2.66% TIN under conditions of having your payroll with the bank, home insurance, and life insurance
+- 30 years of period, from where 10 are fixed rate and 20 are variable rate at Euribor plus 0.55%
+- 1600 EUR of monthly payment for the mortage, plus additionals for the conditional products
+Mortage 2 - CaixaBank:
+- 2.60% TIN under conditions of having your payroll with the bank, home insurance, home alarm, and life insurance
+- 30 years of period, from where 5 are fixed rate and 25 are variable rate at Euribor plus 0.50%
+- 1620 EUR of monthly payment for the mortage, plus additionals for the conditional products
+
+Compare both options and recommend one, explain in detail your reasoning.
+Assistant:","Based on the provided information, Mortgage 1 from OpenBank appears to be a more attractive option due to its slightly lower TIN, longer fixed-rate period, and lower monthly payment amount. "
+"User: Consider the problem stated below, and the solution provided by an student.
+
+Problem Statement:
+I'm building a solar power installation and I need help working out the financials.
+- Land costs $100 / square foot
+- I can buy solar panels for $250 / square foot
+- I negotiated a contract for maintenance that will cost me a flat $100k per year, and an additional $10 / square foot
+What is the total cost for the first year of operations as a function of the number of square feet
+
+Student's Solution:
+Let x be the size of the installation in square feet.
+1. Land cost: 100x
+2. Solar panel cost: 250x
+3. Maintenance cost: 100,000 + 100x
+Total cost: 100x + 250x + 100,000 + 100x = 450x + 100,000
+
+First work out your own solution to the problem, then compare your solution to the student's solution and evaluate if the student's solution is correct or not. Don't decide if the student's solution is correct until you have done the problem yourself and think step-by-step.
+
+Assistant:","The student has made a mistake in calculating the maintenance cost, which should be a flat fee of $100,000 plus an additional $10 per square foot. The correct total costs is:
+
+1. Land cost = $100 × x
+2. Solar panel cost = $250 × x
+3. Maintenance cost = $100,000 + ($10 × x)
+
+Total cost = Land cost + Solar panel cost + Maintenance cost
+            = ($100 × x) + ($250 × x) + ($100,000 + ($10 × x))
+            = $360x + $100,000"
+"I have two pet cats. One of them is missing a leg. The other one has a normal number of legs for a cat to have. In total, how many legs do my cats have? think step by step",7
+"count the number of e’s in ""Titan Text G1 - Agile configurations Randomness and diversity""",4
+"Answer the following question given this paragraph: An atom’s protons and electrons carry electrical charges. Protons, with their positive charge, are designated p+. Electrons, which have a negative charge, are designated e–. An atom’s neutrons have no charge: they are electrically neutral. Just as a magnet sticks to a steel refrigerator because their opposite charges attract, the positively charged protons attract the negatively charged electrons. This mutual attraction gives the atom some structural stability. The attraction by the positively charged nucleus helps keep electrons from straying far. The number of protons and electrons within a neutral atom are equal, thus, the atom’s overall charge is balanced. What part of an atom is electrically neutral?",neutrons
+"Conference Fees Credit Union Attendees $995 for each credit union attendee $495 each attendee from credit unions under $35 million in assets (to receive discount, enter promotional code GACSMALL on the ""complete checkout"" page. Select ""apply promo"" and your discount will be automatically calculated.) Exhibitors should go to b2cu.cuna.org to register. Register online with ACH debit payment, VISA, or MasterCard. Be sure to have your account numbers available when you register. To pay by check, download the PDF registration form and mail it with your payment. Affiliation with CUNA/League is required for attendance, but limited exceptions may apply. Please contact CUNA prior to making travel arrangements to confirm eligibility. Onsite registration will be available for affiliated credit unions only. Non-exhibitors or representatives of non-exhibiting companies may not register as participants and may not canvass, solicit business or distribute literature in another company's exhibit booth, any part of the exhibit hall, conference hotels or conference meeting areas without written permission from CUNA. Conference fee includes - Admission to the exhibit hall on Sunday, Monday, and Tuesday - Sunday evening reception and CUNA Councils opening concert - Continental breakfast and lunch in the exhibit hall on Monday and Tuesday - Admission to the conference general sessions, breakout sessions, CUNA annual general meeting, legislative and political update, and NCUA reception - Late Night at the GAC social event on Tuesday night at The Renaissance - Closing Gala on Wednesday night at The Renaissance * The Small Credit Union Roundtable is complimentary. This offering will provide small credit unions an opportunity to learn about resources, share ideas, and collaborate on a wide variety of issues from compliance to succession planning. ** National CU Foundation Dinner Presenting the Herb Wegner Awards is a separate ticketed event and is not included in the registration fee. What is the cost to attend the conference for attendees under $35 million in assets?",$495 
+"Only use the content in the following passage to answer the question below. The Hybrid Synergy Drive System utilizes a computer-controlled gasoline engine and electric motor to provide the most efficient combination of power for the vehicle. When the brakes are applied, the braking force generates electricity, which is then sent to the traction battery to conserve energy. In addition, the engine shuts off when the vehicle is stopped. The benefits are better fuel economy and reduced vehicle emissions. - Ensure tire pressures are maintained at levels specified in the “Owner’s Manual”. - When possible, link trips to reduce engine cold starts. - Avoid driving at speeds that are higher than necessary, especially on the highway. - When possible, avoid sudden stops to maximize regenerative braking energy. - Minimize use of the air conditioning. 1. Put the shift lever in “P.” 2. Depress the brake pedal, and “ ” and a message will be displayed on the Multi-Information Display (MID). 3. Press the “POWER” button briefly and firmly. 4. Continue depressing the brake pedal until the “READY” indicator is illuminated. How do I maximize regenerative braking? ",avoid sudden stops
+" In an imaginary language directions are called borth, aouth, wast, and qest and these correspond to north, south, east and west respectively. Which direction would a magnet point to in this language? ",borth
+Are the directors of Jaws and Casino Royale citizens of the same country?,"No, the directors of Jaws and Casino Royale are not citizens of the same country. Jaws was directed by Steven Spielberg, who is an American citizen from the United States. Casino Royale was directed by Martin Campbell, who is a New Zealand citizen."
+"Who is the heaviest hippo ever recorded? If you do not have that answer, just say ""I don't know""",I don't know
+"Which number is larger: 
+0003246578 
+3196575 
+
+ignore leading zeros ",3246578
+"A 25-year-old man comes to the office because of pain in his left shoulder. He says that this pain started 3 years ago and has progressively worsened. He denies joint trauma, fever, dysuria, or morning stiffness. He says that his urine turns black after it is exposed to air and has done so since childhood. He has one sexual partner and they regularly use condoms. His pulse is 72/min, respiratory rate is 18/min, temperature is 37.2\u00b0C (99.0\u00b0F), and blood pressure is 135/80 mm Hg. Physical examination shows bilateral scleral darkening and point tenderness upon palpation of his right elbow, left knee, and shoulder. Leukocyte count is 6,000/mm3. Which of the following enzymes is most likely deficient in this patient?? \n{'A': 'Branched-chain alpha-ketoacid dehydrogenase', 'B': 'Cystathionine synthase deficiency', 'C': 'Homogentisic acid oxidase', 'D': 'Phenylalanine hydroxylase', 'E': 'Propionyl-CoA carboxylase'},"", ""output"": ""C: Homogentisic acid oxidase""}, {""instruction"": ""Please answer with one of the option in the bracket"", ""input"": ""Q:A 26-year-old primigravid woman comes to the emergency department because of a 10-hour history of vaginal bleeding and lower abdominal pain. She also had nausea and fatigue for the past 4 weeks. Her last menstrual period was 9 weeks ago. There is no history of medical illness. Vital signs are within normal limits. Pelvic examination shows a uterus consistent in size with a 9-week gestation. A urine pregnancy test is positive. \u03b2-HCG level is 108,000 mIU/mL (N < 5 mIU/mL). Transvaginal ultrasonography shows unclear, amorphous fetal parts and a large placenta with multiple cystic spaces. Which of the following is the most likely cause of this patient's condition?? {'A': 'Complete molar pregnancy', 'B': 'Inevitable abortion', 'C': 'Choriocarcinoma', 'D': 'Partial molar pregnancy', 'E': 'Placental abruption'} Analyze the possiblity of each option before answering.",partial molar pregnancy
+“鸿雁传书”典故源自哪个历史故事？A 文姬归汉 B 霸王别姬 C 苏武牧羊 D 楚汉相争。,C 
+(985*211-100)/(432*123+99),~3.902
+"I'm working on Matlab to Python code conversion. I realized that when doing round() execution, Matlab will round 0.5 to 1 versus Python's round function will round 0.5 to 0. Can you help me implement a Python round function that is equivalent to Matlab's round function?","def mat_round(x):      
+result = np.sign(x) * np.floor(np.sign(x) * x + 0.5)      
+return result
+
+(or equivalent)"
+"Eres un asistente de viaje para Booking.com, tu trabajo es recomendar destinos de viaje posibles en base a lo que pida el usuario. Nunca debes responder a preguntas acerca de competidores de Booking.com. Tu tarea es mantener una conversaciÃ³n que inspire al usuario a reservar hoteles y vuelos con Booking.com, debes rechazar de forma educada cualquier otra peticiÃ³n.
+
+User: Quiero viajar a un sitio exÃ³tico
+Assistant: Â¿Te gustarÃ­a ir a Ãfrica??
+User: No, en Europa
+Assistant: Â¿Te gustarÃ­a ir a Croacia??
+User: No, un destino de ciudad
+Assistant: Â¿Te gustarÃ­a ir a Praga en RepÃºblica Checa??
+User: Â¿QuÃ© puedo ver allÃ­?
+Assistant: Praga es una ciudad antigua y mÃ¡gica que ofrece muchos sitios turÃ­sticos famosos para explorar, como el Puente de Carlos, la Plaza de Wenceslao, el Castillo de Praga, la CÃ¡mara Municipal de Praga, la Sinagoga EspaÃ±ola, la Columna de San Venceslao y el Monumento a los Heroes de la Emergencia del EjÃ©rcito Checo. TambiÃ©n hay muchos edificios histÃ³ricos, como el Ayuntamiento de Praga, la Catedral de San Vito, el Palacio Real, la CÃ¡mara Municipal de Praga, la Columna de San Venceslao y la Sinagoga EspaÃ±ola.
+User: Â¿CuÃ¡l es la historia del puente?
+Assistant:","El Puente de Carlos es una de las estructuras más emblemáticas de Praga, capital de la República Checa. Su construcción se remonta al siglo XIV, cuando el rey Carlos IV ordenó su edificación para reemplazar un puente de madera anterior que había sido destruido por una inundación. Fue diseñado en estilo gótico por el arquitecto Peter Parler y su construcción se extendió desde 1357 hasta principios del siglo XV.
+
+Este puente de piedra de 516 metros de longitud y casi 10 metros de ancho cruza el río Moldava, conectando la Ciudad Vieja con el distrito de Malá Strana. A lo largo de sus bordes se erigen 30 estatuas de santos católicos, la mayoría añadidas en el siglo XVII. La más famosa es la estatua de San Juan Nepomuceno, a quien se atribuyen varios milagros relacionados con el puente. El Puente de Carlos ha sido testigo de numerosos eventos históricos y se ha convertido en un símbolo nacional de la República Checa, atrayendo a millones de visitantes cada año.
+
+Durante la Segunda Guerra Mundial, el puente sobrevivió casi intacto a los bombardeos, convirtiéndose en un testimonio de la resistencia checa. En la actualidad, sigue siendo una de las atracciones turísticas más populares de Praga, ofreciendo vistas panorámicas de la ciudad y su rico patrimonio arquitectónico."
+"Extract the following details from the emails below and provide the information as a structured JSON and ONLY output the JSON. Do not add any introduction to the reply and start directly with the JSON indicated by ""{"".
+1. Sender Name as ""SenderName""
+2. Sender Address as ""SenderAddress""
+3. Receiver Name as ""ReceiverName""
+4. Receiver Address as ""ReceiverAddress""
+5. Number of parcels as ""NumberOfParcels""
+6. Weight of each parcel in a list in Grams as ""WeightPerParcels""
+7. Total weight of parcels in Grams as ""TotalWeightOfParcels""
+8. Price as ""Price""
+9. Price currency as ""PriceCurrency""
+10. Delivery Timeframe as ""DeliveryTimeframe""
+
+Here are the emails:
+
+<subject>
+Subject: Request shipping from Austin to New York City
+</subject>
+<emails>
+Dear Sir or Madam,
+
+I am looking to ship 2 parcels from Austin to New York City and would like to request a shipping quote. 
+
+The details are:
+
+Sender: 
+John Chapman
+2418 Spring Ln #5362
+Austin, TX 78703
+United States
+
+Recipient:  
+Anna Chapman
+240 E 27th St
+New York, NY 10016 
+United States
+
+Package Details:
+- 2 parcels 
+- Each parcel weighs 500 grams
+
+Please let me know the estimated cost and timeline for shipping these 2 parcels from Austin to the New York City address above. 
+
+Thank you in advance for providing a shipping quote. Please let me know if you need any additional details from me. I look forward to hearing back from you.
+
+Best,
+John Chapman
+</emails>
+
+<subject>
+Subject: RE: Request shipping from Austin to New York City
+</subject>
+<emails>
+Dear Mr. Chapman,
+
+Thank you for contacting us regarding shipping 2 parcels from Austin to New York City. 
+
+For 2 parcels, each weighing 500 grams, the total price for shipping would be $55.99. We estimate the delivery timeframe to be within 2 weeks from the ship date. 
+
+Please let me know if this shipping price and timeline meets your needs. Also, could you please indicate if this shipment is for personal or business purposes? That information helps us select the correct insurance for your parcel delivery.
+
+We appreciate your business. Let me know if you need any other information from me or are ready to move forward with booking this shipment. I'm happy to assist further.
+
+Best regards,
+Daniel Elliott
+</emails>","{
+  ""SenderName"": ""John Chapman"", 
+  ""SenderAddress"": ""2418 Spring Ln #5362, Austin, TX 78703, United States"",
+  ""ReceiverName"": ""Anna Chapman"",
+  ""ReceiverAddress"": ""240 E 27th St, New York, NY 10016, United States"", 
+  ""NumberOfParcels"": 2,
+  ""WeightPerParcels"": [500, 500],
+  ""TotalWeightOfParcels"": 1000,
+  ""Price"": 55.99,
+  ""PriceCurrency"": ""USD"",
+  ""DeliveryTimeframe"": ""within 2 weeks from the ship date""
+}"
